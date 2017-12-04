@@ -18,11 +18,12 @@ Contains a list of learning Resources, frameworks, templates, tools, developer p
 * [Submission requirements](https://developer.amazon.com/docs/custom-skills/certification-requirements-for-custom-skills.html)
 
 ### Contests
+* [The Alexa Prize](https://developer.amazon.com/alexaprize)
 * [Alexa Smart Home Challenge: November](https://www.hackster.io/contests/alexasmarthome)
 
 ### Communities
 * [Hackster IO](https://www.hackster.io/amazon-alexa)
-* [Facebook Group](https://www.facebook.com/groups/303064340153583/]
+* [Facebook Group](https://www.facebook.com/groups/303064340153583/)
 
 ### Blogs and articles
 * [Official blog](https://developer.amazon.com/blogs/alexa/)
