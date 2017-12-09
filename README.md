@@ -30,4 +30,5 @@ Contains a list of learning Resources, frameworks, templates, tools, developer p
 * [Why noone is using your Alexa skill:Medium](https://medium.com/the-mission/nobody-cares-about-your-amazon-alexa-skill-ac14bd080327)
 
 ### Other repositories
+* [alexa-cookbooks,tutorials and more (official)[https://github.com/alexa]
 * [awesome-amazon-echo](https://github.com/miguelmota/awesome-amazon-echo)
