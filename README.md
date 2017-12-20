@@ -4,6 +4,7 @@ Contains a list of learning Resources, frameworks, templates, tools, developer p
 ### Learning Resources
 * [List of courses from Alexa's website](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training)
 * [YouTube video: making skills with Node and AWS Lambda](https://www.youtube.com/watch?v=zt9WdE5kR6g)
+* [Dabble Lab free Alexa course](https://learn.dabblelab.com/)
 
 ### Templates/Frameworks/Tools
 * [Alexa Skills Kit for Node JS](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)
