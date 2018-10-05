@@ -35,3 +35,5 @@ Contains a list of learning Resources, frameworks, templates, tools, developer p
 * [awesome-amazon-echo](https://github.com/miguelmota/awesome-amazon-echo)
 * [Twitter Account Linking (Serverless)](https://github.com/josephyi/serverless-twitter-oauth)
 * [Serverless framework template](https://github.com/rmtuckerphx/alexa-skill-serverless-starter-template)
+
+Feel free to suggest new resources!
